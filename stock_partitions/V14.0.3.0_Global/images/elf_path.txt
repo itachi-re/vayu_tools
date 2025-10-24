@@ -1,0 +1,4 @@
+j20s-vayu-t-stable-symbols-20230507_144737_40d69dbea.tgz
+
+[小米同学] Please visit http://husky.pt.miui.com/buildFile/modemSymbols to download the file.
+[ODM同学] Please visit modem-symbols/ directory to find the file.

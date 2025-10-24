@@ -1,0 +1,4 @@
+device=vayu
+build_number=V14.0.3.0.TJUMIXM
+userdata_version=20230508.0000.00
+custom_bulid_number=vayu.mi.1.1.0027
